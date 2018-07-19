@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:MainTestObj/MainTestObj.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OtherTestObj/OtherTestObj.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:StaticLaSource/StaticLaSource.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:TouchFramework/TouchFramework.xcodeproj">
+   </FileRef>
+</Workspace>
